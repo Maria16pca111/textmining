@@ -1,6 +1,6 @@
 # textmining
 
-Competition id is AC01
+Competition id is AC01 and my group id is 1915
 
 Text Summarization
 
